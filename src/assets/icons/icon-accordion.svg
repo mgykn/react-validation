@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="13px" viewBox="0 0 24 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>Chevron Down</title>
+    <desc>Created with Sketch.</desc>
+    <g id="TR" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="13-01-Sales-Agent-End-User-List" transform="translate(-1234.000000, -430.000000)" fill="#E60000">
+            <g id="Sidebar" transform="translate(90.000000, 182.000000)">
+                <g id="Content" transform="translate(471.000000, 64.000000)">
+                    <g id="List-Group" transform="translate(0.000000, 155.000000)">
+                        <g id="List">
+                            <g id="Chevron-Down" transform="translate(685.000000, 36.000000) rotate(180.000000) translate(-685.000000, -36.000000) translate(673.000000, 29.000000)">
+                                <path d="M7.04073773,7.27297077 L18.2770699,18.5093029 L17.5699631,19.2164097 L5.5491478,7.19559441 L6.25625458,6.48848763 L6.33363094,6.56586399 L17.5093029,-4.60980797 L18.2164097,-3.90270119 L7.04073773,7.27297077 Z" id="Rectangle-2" transform="translate(11.913109, 7.303301) rotate(-270.000000) translate(-11.913109, -7.303301) "></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
